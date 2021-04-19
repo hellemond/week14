@@ -15,11 +15,14 @@ input[type=text]{
     border-color: #000000;
 }
 
+
+p{
+    font-size: 18px;
+}
+
+
 input[type=email]{
     border-radius: 2px;
     border-color: #000000;
 }
 
-p{
-    font-size: 18px;
-}
